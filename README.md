@@ -1,6 +1,8 @@
 # AeroTHON-2024
 Approaches used by aeroKLE for SAE India AeroTHON 2024, GITAM University, Bengaluru
 
+The rulebook and abstract of the competition is updated above.
+
 Mission Profiles - AeroTHON 2024:
 
 Mission 1: (Manual - Hotspots + Objects)
